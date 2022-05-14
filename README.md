@@ -3,7 +3,7 @@
 
 [![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
-## Sous titre
+## Git Credentiel Manager
 ----
 
 ### Je viens d'ajouter un commite depuit github
