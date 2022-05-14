@@ -34,7 +34,7 @@ Je fais une citation
 je suis revenu à la ligne
 
 J'affiche du code
-`ceci est bout de code`
+```ceci est bout de code```
 
 Mettre un  lien dans le readme.md
 Un lien [ lien google.com](https://google.com)
